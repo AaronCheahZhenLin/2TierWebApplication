@@ -2,4 +2,4 @@
 
 This is the diagram for the deployed Terraform Infrastructure
 
-<img src="Terraform/2TierWebApplicationDiagram.png" alt="A descriptive text for the image">
+<img src="2TierWebApplication.png" alt="A descriptive text for the image">
