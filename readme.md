@@ -1,4 +1,4 @@
-#This is a script to create a 2 Tier Web Application
+This is a script to create a 2 Tier Web Application
 
 This is the diagram for the deployed Terraform Infrastructure
 
